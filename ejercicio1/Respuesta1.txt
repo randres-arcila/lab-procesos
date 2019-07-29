@@ -1,0 +1,5 @@
+a) El valor de la variable x en ambos casos es el 
+mismo, indepedientemente de si es padre o hijo
+
+b) Como son dos procesos diferentes e indepedientes
+cada uno modifica la variable según lo establecido
