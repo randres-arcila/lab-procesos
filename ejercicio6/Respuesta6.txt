@@ -1,0 +1,4 @@
+¿Cuándo podría ser waitpid() útil?
+es útil cuando en proceso padre, tiene varios hijos,
+pues la función espera que el hijo especificado cambie
+de estado, mediante el pid del proceso que se quiere esperar.

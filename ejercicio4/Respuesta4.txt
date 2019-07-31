@@ -1,0 +1,4 @@
+- ¿Por qué piensa usted que existen tantas variaciones para la misma llamada básica?
+
+Existen tantas variaciones de la llamada exec() porque cada una de ellas nos soluciona una problematica 
+diferente, esto lo podemos ver en los argumentos que se decean enviar o en los retornos de los mismos.

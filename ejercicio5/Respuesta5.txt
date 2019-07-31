@@ -1,0 +1,8 @@
+¿Cuál es el valor de retorno de la función wait()?
+el valor que retorna es un entero que contiene el PID del proceso
+hijo que finalizó o -1 si no se crearon hijos o si ya no hay hijos
+por los cuales esperar.
+
+¿Qué pasa si usted usa la función wait en el hijo?
+Como se dijo anteriormente el hijo retorna -1, porque el hijo no
+tiene ningun otro proceso que realizar(otro hijo)
